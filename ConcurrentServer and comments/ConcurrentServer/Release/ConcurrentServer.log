@@ -1,0 +1,56 @@
+﻿Сборка начата 26.12.2014 21:25:10.
+     1>Проект "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_08\ConcurrentServer\ConcurrentServer\ConcurrentServer.vcxproj" в узле 2 (целевые объекты rebuild).
+     1>InitializeBuildStatus:
+         Создание "Release\ConcurrentServer.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\ConcurrentServer.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ConcurrentServer.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ConcurrentServer.cpp
+         ConcurrentServer.cpp
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\Global.h(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\Global.h(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\DispathServer.h(47): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\DispathServer.h(48): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\DispathServer.h(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(42): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110): см. объявление "strcat"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(71): warning C4482: использовано нестандартное расширение: перечислитель "TalkersCmd" использован в полном имени
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(74): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(75): warning C4482: использовано нестандартное расширение: перечислитель "TalkersCmd" использован в полном имени
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(79): warning C4482: использовано нестандартное расширение: перечислитель "TalkersCmd" использован в полном имени
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(86): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(87): warning C4482: использовано нестандартное расширение: перечислитель "TalkersCmd" использован в полном имени
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(90): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(91): warning C4482: использовано нестандартное расширение: перечислитель "TalkersCmd" использован в полном имени
+     1>d:\учёба\3 курс\1 семестр (вариант 3)\псп\лабораторные работы\lab_08\concurrentserver\concurrentserver\ConsolePipe.h(94): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_08\ConcurrentServer\Release\ConcurrentServer.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ConcurrentServer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_08\ConcurrentServer\Release\ConcurrentServer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_08\ConcurrentServer\Release\ConcurrentServer.lib" /MACHINE:X86 Release\ConcurrentServer.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         ConcurrentServer.vcxproj -> D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_08\ConcurrentServer\Release\ConcurrentServer.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_08\ConcurrentServer\Release\ConcurrentServer.exe;#1" /manifest Release\ConcurrentServer.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\ConcurrentServer.unsuccessfulbuild" удаляется.
+         Обращение к "Release\ConcurrentServer.lastbuildstate".
+     1>Построение проекта "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_08\ConcurrentServer\ConcurrentServer\ConcurrentServer.vcxproj" завершено (целевые объекты rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.40

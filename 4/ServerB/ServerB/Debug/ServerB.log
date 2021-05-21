@@ -1,0 +1,3 @@
+﻿  ServerB.cpp
+C:\Non_system_files\Универ\Программирование сетевых приложений\Labs\4\ServerB\ServerB\ServerB.cpp(150): warning C4715: PutAnswerToClient: значение возвращается не при всех путях выполнения
+  ServerB.vcxproj -> C:\Non_system_files\Универ\Программирование сетевых приложений\Labs\4\ServerB\Debug\ServerB.exe
