@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+e:\study\3 курс\5 сем\яна\псп_шиман\lab_08\concurrentserver and comments\servicelibrary\global.h(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+e:\study\3 курс\5 сем\яна\псп_шиман\lab_08\concurrentserver and comments\servicelibrary\global.h(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+e:\study\3 курс\5 сем\яна\псп_шиман\lab_08\concurrentserver and comments\servicelibrary\randserver.h(41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\study\3 курс\5 сем\яна\псп_шиман\lab_08\concurrentserver and comments\servicelibrary\randserver.h(43): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+e:\study\3 курс\5 сем\яна\псп_шиман\lab_08\concurrentserver and comments\servicelibrary\timeserver.h(39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+  ServiceLibrary.cpp
+     Создается библиотека E:\Study\3 курс\5 сем\Яна\ПСП_Шиман\Lab_08\ConcurrentServer and comments\Debug\ServiceLibrary.lib и объект E:\Study\3 курс\5 сем\Яна\ПСП_Шиман\Lab_08\ConcurrentServer and comments\Debug\ServiceLibrary.exp
+  ServiceLibrary.vcxproj -> E:\Study\3 курс\5 сем\Яна\ПСП_Шиман\Lab_08\ConcurrentServer and comments\Debug\ServiceLibrary.dll
+  ServiceLibrary.vcxproj -> E:\Study\3 курс\5 сем\Яна\ПСП_Шиман\Lab_08\ConcurrentServer and comments\Debug\ServiceLibrary.pdb (Full PDB)
